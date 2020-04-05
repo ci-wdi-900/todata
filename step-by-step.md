@@ -1,6 +1,8 @@
 # Step By Step (Oh Baby)
 
-This is a more fine-grained step-by-step guide to making Todata happen, for those who don't want to figure it out all on their lonesome.
+For those who don't want to figure it out all on their lonesome, here's a guide for how to make our Todata app.
+
+You can do it... [Step By Step](https://www.youtube.com/watch?v=ay6GjmiJTPM).
 
 
 ### General Architecture
