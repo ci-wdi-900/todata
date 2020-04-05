@@ -1,4 +1,4 @@
-# Step By Step (Oh Baby)
+# Step By Step
 
 For those who don't want to figure it out all on their lonesome, here's a guide for how to make our Todata app.
 
